@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1080px;
+  min-width: 360px;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 3rem;
+  color: blue;
+  text-align: center;
+}
+.option {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+  color: black;
+}
+iframe {
+  margin: 0 auto;
+}
