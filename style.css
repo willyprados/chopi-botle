@@ -12,7 +12,8 @@ h1 {
   color: blue;
   text-align: center;
 }
-p .option {
+p,
+.option {
   font-family: "Courier New", Courier, monospace;
   font-size: 2rem;
   color: black;
